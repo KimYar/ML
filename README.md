@@ -1,4 +1,4 @@
 # Machine Learning
-Machine Learning projects
+Machine Learning projects using regression, classification and clustering approaches.
 
 Thanks to Hadelin de Ponteves
