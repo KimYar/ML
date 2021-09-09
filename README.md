@@ -1,4 +1,4 @@
 # Machine Learning
-Machine Learning projects using regression, classification and clustering approaches.
+Machine Learning and Deep learning projects using regression, classification and clustering approaches.
 
-Thanks to Hadelin de Ponteves for the informative Udemy courses
+Thanks to Hadelin de Ponteves and Kirill Eremenko for the informative Udemy courses
